@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashafagna
 - 👀 I’m interested in coding, web designing
-- 🌱 I’m currently learning Data Structure Alogorithms
+- 🌱 I’m currently learning react
 - 📫 How to reach me email :ashafagna2004@gmail.com
 
 <!---
